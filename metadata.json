@@ -1,0 +1,6 @@
+{
+  "name": "Geophysics Toolbox",
+  "description": "Asisten survei dan pengolahan data Geofisika lapangan (Geolistrik, Seismik, Magnetik, Gravitasi) dengan dukungan AI Interpreter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
